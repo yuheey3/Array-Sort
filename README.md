@@ -1,6 +1,6 @@
 # Array-Sort
 
-# **** PROBLEM ****
+## **** PROBLEM ****
 
 // Write a program that sorts a list of comma separated products.
 
@@ -14,7 +14,7 @@
 
 
 
-# **** SOLUTION ****
+## **** SOLUTION ****
 
 Created Item class and ItemComparer Class.
 Item class contains title(string), popularity(int), and price(int).

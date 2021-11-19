@@ -1,6 +1,6 @@
 # Array-Sort
 
-**** PROBLEM ****
+# **** PROBLEM ****
 
 // Write a program that sorts a list of comma separated products.
 
@@ -12,7 +12,9 @@
 // If products are equally popular, sort by cheapest price (lower is better).
 // You don't need to write your own sorting algorithm. It's recommended to use a built-in sorting library.
 
-**** SOLUTION ****
+
+
+# **** SOLUTION ****
 
 Created Item class and ItemComparer Class.
 Item class contains title(string), popularity(int), and price(int).

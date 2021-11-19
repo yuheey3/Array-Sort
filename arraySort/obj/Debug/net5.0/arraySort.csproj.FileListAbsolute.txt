@@ -1,0 +1,16 @@
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\bin\Debug\net5.0\arraySort.exe
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\bin\Debug\net5.0\arraySort.deps.json
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\bin\Debug\net5.0\arraySort.runtimeconfig.json
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\bin\Debug\net5.0\arraySort.runtimeconfig.dev.json
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\bin\Debug\net5.0\arraySort.dll
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\bin\Debug\net5.0\ref\arraySort.dll
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\bin\Debug\net5.0\arraySort.pdb
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\obj\Debug\net5.0\arraySort.csproj.AssemblyReference.cache
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\obj\Debug\net5.0\arraySort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\obj\Debug\net5.0\arraySort.AssemblyInfoInputs.cache
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\obj\Debug\net5.0\arraySort.AssemblyInfo.cs
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\obj\Debug\net5.0\arraySort.csproj.CoreCompileInputs.cache
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\obj\Debug\net5.0\arraySort.dll
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\obj\Debug\net5.0\ref\arraySort.dll
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\obj\Debug\net5.0\arraySort.pdb
+D:\Yuki\School\7thSemester\sortArray\arraySort\arraySort\obj\Debug\net5.0\arraySort.genruntimeconfig.cache
